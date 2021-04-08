@@ -1,0 +1,10 @@
+D:\Software(Program)\C# Project\Log_Analysis\bin\Debug\Log_Analysis.exe.config
+D:\Software(Program)\C# Project\Log_Analysis\bin\Debug\Log_Analysis.exe
+D:\Software(Program)\C# Project\Log_Analysis\bin\Debug\Log_Analysis.pdb
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.csprojAssemblyReference.cache
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.Form1.resources
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.Properties.Resources.resources
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.csproj.GenerateResource.cache
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.csproj.CoreCompileInputs.cache
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.exe
+D:\Software(Program)\C# Project\Log_Analysis\obj\Debug\Log_Analysis.pdb
